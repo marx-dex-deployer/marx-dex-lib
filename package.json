@@ -1,18 +1,23 @@
 {
-  "name": "@uniswap/lib",
+  "name": "@marx-dex/marx-dex-lib",
   "version": "4.0.1-alpha",
-  "description": "📖 Solidity libraries that are shared across Uniswap contracts",
+  "description": "Solidity libraries that are shared across MarX Decentralized Exchange contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://uniswap.org",
+  "homepage": "https://gameland.cc",
   "repository": {
-    "url": "https://github.com/Uniswap/uniswap-lib",
+    "url": "https://github.com/marx-dex-deployer/marx-dex-lib",
     "type": "git"
   },
+  "keywords": [
+    "marx-dex",
+    "ethereum",
+    "lib"
+  ],
   "bugs": {
-    "url": "https://github.com/Uniswap/uniswap-lib/issues"
+    "url": "https://github.com/marx-dex-deployer/marx-dex-lib/issues"
   },
   "engines": {
     "node": ">=10"
